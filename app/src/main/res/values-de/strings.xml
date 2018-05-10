@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--App Translator - item states storage;app_name=3;
+--><resources>
+  <string name="app_name">Downloader</string>
+  <string name="fb_button">Öffnen Sie Musical.ly</string>
+  <string name="learn">Wie benutzt man</string>
+  <string name="content_image">Foto</string>
+  <string name="content_video">Video abspielen</string>
+  <string name="sorry">Entschuldigung, dieses Video kann nicht heruntergeladen werden</string>
+  <string name="note_title">Downloader ist eingeschaltet</string>
+  <string name="note_text">Kopieren Sie den musical.ly-Video-Link zum sofortigen Download</string>
+  <string name="bannerTitle">Herunterladen ...</string>
+  <string name="auto">Anmachen</string>
+  <string name="permissionPositive">OK</string>
+  <string name="permissionNegative">Stornieren</string>
+  <string name="permissionMessage">Diese App kann ohne diese Berechtigung nicht ordnungsgemäß funktionieren</string>
+  <string name="permissionTitle">Erlaubnis benötigt</string>
+</resources>

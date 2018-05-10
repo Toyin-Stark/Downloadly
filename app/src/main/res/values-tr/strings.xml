@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--App Translator - item states storage;app_name=3;
+--><resources>
+  <string name="app_name">Downloader</string>
+  <string name="fb_button">Açık</string>
+  <string name="learn">VİDEO İZLE</string>
+  <string name="content_image">Fotoğraf</string>
+  <string name="content_video">Oyun</string>
+  <string name="sorry">Üzgünüz bu video indirilemiyor</string>
+  <string name="note_title">İndirici etkinleştirildi</string>
+  <string name="note_text">İndirmeye başlamak için musical.ly bağlantısını kopyalayın</string>
+  <string name="bannerTitle">İndiriliyor ...</string>
+  <string name="auto">OTOMATİK İNDİR</string>
+  <string name="permissionPositive">Tamam</string>
+  <string name="permissionNegative">İptal etmek</string>
+  <string name="permissionMessage">Bu uygulama, bu izin olmadan düzgün çalışamaz</string>
+  <string name="permissionTitle">Izin gerekli</string>
+</resources>

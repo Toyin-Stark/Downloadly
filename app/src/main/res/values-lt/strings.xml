@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--App Translator - item states storage;app_name=3;
+--><resources>
+  <string name="app_name">Downloader</string>
+  <string name="fb_button">Atidarykite MUSICAL.LY</string>
+  <string name="learn">ŽIŪRĖTI VIDEO</string>
+  <string name="content_image">Nuotrauka</string>
+  <string name="content_video">Groti vaizdo įrašą</string>
+  <string name="sorry">Atsiprašome, šio vaizdo įrašo negalima atsisiųsti</string>
+  <string name="note_title">Aktyvuota</string>
+  <string name="note_text">Kopijuoti muzikinį vaizdo įrašą į momentinę atsisiuntimą</string>
+  <string name="bannerTitle">Atsisiunčiama...</string>
+  <string name="auto">AUTO PARSISIUNTIMAS</string>
+  <string name="permissionPositive">Gerai</string>
+  <string name="permissionNegative">Atšaukti</string>
+  <string name="permissionMessage">Ši programa negali tinkamai veikti be šio leidimo</string>
+  <string name="permissionTitle">Reikalingas leidimas</string>
+</resources>

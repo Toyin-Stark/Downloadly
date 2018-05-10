@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--App Translator - item states storage;app_name=3;
+--><resources>
+  <string name="app_name">አውርድ</string>
+  <string name="fb_button">የተከፈተ ሙዚቃ</string>
+  <string name="learn">WATCH VIDEO</string>
+  <string name="content_image">ፎቶግራፍ</string>
+  <string name="content_video">ተጫወት</string>
+  <string name="sorry">ይቅርታ, ይህ ሚዲያ ሊወርድ አልቻለም</string>
+  <string name="note_title">አንባቢው በርቷል</string>
+  <string name="note_text">ለፈጣን ማውረድ ሙዚቃ.ly ቪዲዮ አገናኝን ቅዳ</string>
+  <string name="bannerTitle">በማውረድ ላይ ...</string>
+  <string name="auto">አውቶ አውርድ</string>
+  <string name="permissionPositive">ሰርዝ</string>
+  <string name="permissionNegative">ሰርዝ</string>
+  <string name="permissionMessage">ይህ ፍቃድ ያለፍቃድ በአግባቡ መስራት አይችልም</string>
+  <string name="permissionTitle">ፈቃድ ያስፈልጋል</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--App Translator - item states storage;app_name=3;
+--><resources>
+  <string name="app_name">Downloader</string>
+  <string name="fb_button">खुला</string>
+  <string name="learn">वीडियो देखेंा</string>
+  <string name="content_image">तस्वीर</string>
+  <string name="content_video">वीडियो चलाएं</string>
+  <string name="sorry">क्षमा करें इस वीडियो को डाउनलोड नहीं किया जा सकता है</string>
+  <string name="note_title">डाउनलोडर चालू है</string>
+  <string name="note_text">डाउनलोड करने के लिए musical.ly लिंक कॉपी करें</string>
+  <string name="bannerTitle">डाउनलोड कर रहा है</string>
+  <string name="auto">ऑटो डाउनलोड करें</string>
+  <string name="permissionPositive">ठीक</string>
+  <string name="permissionNegative">रद्द करना</string>
+  <string name="permissionMessage">यह ऐप इस अनुमति के बिना ठीक से काम नहीं कर सकता है</string>
+  <string name="permissionTitle">अनुमति की आवश्यकता है</string>
+</resources>

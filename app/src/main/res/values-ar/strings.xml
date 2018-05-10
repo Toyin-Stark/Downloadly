@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--App Translator - item states storage;app_name=3;
+--><resources>
+  <string name="app_name">Downloader</string>
+  <string name="fb_button">افتح MUSICAL.LY</string>
+  <string name="learn">كيف تستعمل</string>
+  <string name="content_image">صورة فوتوغرافية</string>
+  <string name="content_video">شغل الفيديو</string>
+  <string name="sorry">عذرًا ، لا يمكن تنزيل هذا الفيديو</string>
+  <string name="note_title">برنامج التنزيل قيد التشغيل</string>
+  <string name="note_text">نسخ رابط الفيديو musical.ly للتنزيل الفوري</string>
+  <string name="bannerTitle">جارى التحميل</string>
+  <string name="auto">شغله</string>
+  <string name="permissionPositive">حسنا</string>
+  <string name="permissionNegative">إلغاء</string>
+  <string name="permissionMessage">لا يمكن لهذا التطبيق العمل بشكل صحيح بدون هذا الإذن</string>
+  <string name="permissionTitle">إذن مطلوب</string>
+</resources>

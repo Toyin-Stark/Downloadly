@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Downloader</string>
+
+
+    <string name="fb_button">OPEN MUSICAL.LY</string>
+    <string name="learn">WATCH VIDEO</string>
+
+    <string name="content_image">Photo</string>
+    <string name="content_video">Play</string>
+
+
+    <string name="sorry">Sorry this media cannot be downloaded</string>
+
+    <string name="note_title">Downloader is on</string>
+    <string name="note_text">Copy musical.ly video link to instant download</string>
+    <string name="bannerTitle">Downloading…</string>
+    <string name="auto">AUTO DOWNLOAD</string>
+
+
+    <string name="permissionPositive">Ok</string>
+    <string name="permissionNegative">Cancel</string>
+    <string name="permissionMessage">This app cannot work properly without this permission</string>
+    <string name="permissionTitle">Permission needed</string>
+
+
+
+</resources>
